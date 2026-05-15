@@ -73,3 +73,18 @@ Use these records as the canonical accounting layer for the AGASI Week 01 pair:
 - [`registry/2026-05-15-asaias-agasi-week-01-manifest.md`](registry/2026-05-15-asaias-agasi-week-01-manifest.md)
 - [`registry/2026-05-15-asaias-agasi-week-01-entry.md`](registry/2026-05-15-asaias-agasi-week-01-entry.md)
 - [`registry/2026-05-15-asaias-agasi-week-01-corrections-log.md`](registry/2026-05-15-asaias-agasi-week-01-corrections-log.md)
+
+## Latest Registered Runtime Package
+
+ASAIAS has now added a runtime-trust package linking publication, research, reporting and methodology.
+
+- Cycle ID: `ASAIAS-CYCLE-2026-05-15-RUNTIME-TRUST-PACKAGE`
+- Public release date: `2026-05-15`
+- Registry registration date: `2026-05-15`
+- Registered components: `articles`, `publications`, `public-research`, `public-reports`, `methodology`
+
+Use these records as the canonical accounting layer for the runtime-trust package:
+
+- [`registry/2026-05-15-asaias-runtime-trust-package-manifest.md`](registry/2026-05-15-asaias-runtime-trust-package-manifest.md)
+- [`registry/2026-05-15-asaias-runtime-trust-package-entry.md`](registry/2026-05-15-asaias-runtime-trust-package-entry.md)
+- [`registry/2026-05-15-asaias-runtime-trust-package-corrections-log.md`](registry/2026-05-15-asaias-runtime-trust-package-corrections-log.md)
