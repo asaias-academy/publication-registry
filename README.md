@@ -88,3 +88,18 @@ Use these records as the canonical accounting layer for the runtime-trust packag
 - [`registry/2026-05-15-asaias-runtime-trust-package-manifest.md`](registry/2026-05-15-asaias-runtime-trust-package-manifest.md)
 - [`registry/2026-05-15-asaias-runtime-trust-package-entry.md`](registry/2026-05-15-asaias-runtime-trust-package-entry.md)
 - [`registry/2026-05-15-asaias-runtime-trust-package-corrections-log.md`](registry/2026-05-15-asaias-runtime-trust-package-corrections-log.md)
+
+## Latest Registered Public Method Package
+
+ASAIAS has now made its explicit interpretive method public.
+
+- Cycle ID: `ASAIAS-CYCLE-2026-05-15-PUBLIC-METHOD-PACKAGE`
+- Public release date: `2026-05-15`
+- Registry registration date: `2026-05-15`
+- Registered components: `articles`, `publications`, `public-research`
+
+Use these records as the canonical accounting layer for the public method package:
+
+- [`registry/2026-05-15-asaias-public-method-package-manifest.md`](registry/2026-05-15-asaias-public-method-package-manifest.md)
+- [`registry/2026-05-15-asaias-public-method-package-entry.md`](registry/2026-05-15-asaias-public-method-package-entry.md)
+- [`registry/2026-05-15-asaias-public-method-package-corrections-log.md`](registry/2026-05-15-asaias-public-method-package-corrections-log.md)
