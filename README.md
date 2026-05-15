@@ -43,3 +43,18 @@ Use these registry records as the canonical accounting layer for the first basel
 - [`registry/2026-05-12-asaias-baseline-cycle-manifest.md`](registry/2026-05-12-asaias-baseline-cycle-manifest.md)
 - [`registry/2026-05-12-asaias-baseline-cycle-entry.md`](registry/2026-05-12-asaias-baseline-cycle-entry.md)
 - [`registry/2026-05-12-asaias-baseline-cycle-corrections-log.md`](registry/2026-05-12-asaias-baseline-cycle-corrections-log.md)
+
+## Latest Registered Public Trio
+
+ASAIAS has now registered a second live release family focused on protocol literacy, workflow governance and interoperability.
+
+- Cycle ID: `ASAIAS-CYCLE-2026-05-15-PROTOCOL-LITERACY-TRIO`
+- Public release date: `2026-05-15`
+- Registry registration date: `2026-05-15`
+- Registered components: `articles`, `publications`, `public-research`
+
+Use these records as the canonical accounting layer for the second public trio:
+
+- [`registry/2026-05-15-asaias-protocol-literacy-trio-manifest.md`](registry/2026-05-15-asaias-protocol-literacy-trio-manifest.md)
+- [`registry/2026-05-15-asaias-protocol-literacy-trio-entry.md`](registry/2026-05-15-asaias-protocol-literacy-trio-entry.md)
+- [`registry/2026-05-15-asaias-protocol-literacy-trio-corrections-log.md`](registry/2026-05-15-asaias-protocol-literacy-trio-corrections-log.md)
