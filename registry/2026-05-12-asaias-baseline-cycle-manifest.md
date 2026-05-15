@@ -51,6 +51,11 @@ If later evidence or editorial revision changes interpretation:
 3. point later cycles back to this baseline when reindexing or re-rating;
 4. archive superseded interpretations without erasing the first public release state.
 
+## Linked Lifecycle Records
+
+- Registry entry: [`2026-05-12-asaias-baseline-cycle-entry.md`](2026-05-12-asaias-baseline-cycle-entry.md)
+- Corrections log: [`2026-05-12-asaias-baseline-cycle-corrections-log.md`](2026-05-12-asaias-baseline-cycle-corrections-log.md)
+
 ## Source Basis
 
 This manifest is based on the first published ASAIAS baseline materials already released across:

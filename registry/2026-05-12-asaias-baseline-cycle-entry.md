@@ -48,3 +48,4 @@ This entry confirms that the first cycle is no longer only a set of repository f
 ## Linked Manifest
 
 - [`2026-05-12-asaias-baseline-cycle-manifest.md`](2026-05-12-asaias-baseline-cycle-manifest.md)
+- [`2026-05-12-asaias-baseline-cycle-corrections-log.md`](2026-05-12-asaias-baseline-cycle-corrections-log.md)

@@ -42,3 +42,4 @@ Use these registry records as the canonical accounting layer for the first basel
 
 - [`registry/2026-05-12-asaias-baseline-cycle-manifest.md`](registry/2026-05-12-asaias-baseline-cycle-manifest.md)
 - [`registry/2026-05-12-asaias-baseline-cycle-entry.md`](registry/2026-05-12-asaias-baseline-cycle-entry.md)
+- [`registry/2026-05-12-asaias-baseline-cycle-corrections-log.md`](registry/2026-05-12-asaias-baseline-cycle-corrections-log.md)
