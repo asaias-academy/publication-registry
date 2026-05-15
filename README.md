@@ -28,3 +28,17 @@ Track what was drafted, approved, published, indexed, corrected and archived.
 ## Approval Gate
 
 Nothing public is final without human review and human approval.
+
+## First Registered Cycle
+
+The first registered ASAIAS publication cycle is now fixed as a single baseline release set.
+
+- Cycle ID: `ASAIAS-CYCLE-2026-05-12-BASELINE`
+- Public release date: `2026-05-12`
+- Registry registration date: `2026-05-15`
+- Registered components: `articles`, `publications`, `public-research`, `indexes`, `ratings`
+
+Use these registry records as the canonical accounting layer for the first baseline cycle:
+
+- [`registry/2026-05-12-asaias-baseline-cycle-manifest.md`](registry/2026-05-12-asaias-baseline-cycle-manifest.md)
+- [`registry/2026-05-12-asaias-baseline-cycle-entry.md`](registry/2026-05-12-asaias-baseline-cycle-entry.md)
