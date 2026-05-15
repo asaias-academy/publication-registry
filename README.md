@@ -58,3 +58,18 @@ Use these records as the canonical accounting layer for the second public trio:
 - [`registry/2026-05-15-asaias-protocol-literacy-trio-manifest.md`](registry/2026-05-15-asaias-protocol-literacy-trio-manifest.md)
 - [`registry/2026-05-15-asaias-protocol-literacy-trio-entry.md`](registry/2026-05-15-asaias-protocol-literacy-trio-entry.md)
 - [`registry/2026-05-15-asaias-protocol-literacy-trio-corrections-log.md`](registry/2026-05-15-asaias-protocol-literacy-trio-corrections-log.md)
+
+## Latest Registered Index Pair
+
+ASAIAS has now extended the same release wave into the autonomous systems index family.
+
+- Cycle ID: `ASAIAS-CYCLE-2026-05-15-AGASI-WEEK-01`
+- Public release date: `2026-05-15`
+- Registry registration date: `2026-05-15`
+- Registered components: `indexes`, `ratings`
+
+Use these records as the canonical accounting layer for the AGASI Week 01 pair:
+
+- [`registry/2026-05-15-asaias-agasi-week-01-manifest.md`](registry/2026-05-15-asaias-agasi-week-01-manifest.md)
+- [`registry/2026-05-15-asaias-agasi-week-01-entry.md`](registry/2026-05-15-asaias-agasi-week-01-entry.md)
+- [`registry/2026-05-15-asaias-agasi-week-01-corrections-log.md`](registry/2026-05-15-asaias-agasi-week-01-corrections-log.md)
