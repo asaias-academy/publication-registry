@@ -1,4 +1,8 @@
+![ASAIAS organization banner](https://raw.githubusercontent.com/asaias-academy/.github/main/profile/assets/organization-banner.png)
+
 # ASAIAS Publication Registry
+
+![ASAIAS publication cycle](https://raw.githubusercontent.com/asaias-academy/.github/main/visual-system/assets/diagrams/publication-cycle.png)
 
 Manifest, counters and publication accounting layer for ASAIAS.
 
@@ -28,6 +32,10 @@ Track what was drafted, approved, published, indexed, corrected and archived.
 ## Approval Gate
 
 Nothing public is final without human review and human approval.
+
+## Visual Surface
+
+This repository uses the shared ASAIAS visual layer from `asaias-academy/.github` so manifests, corrections logs and release accounting remain visibly tied to the academy's publication cycle and archive discipline.
 
 ## First Registered Cycle
 

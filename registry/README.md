@@ -1,6 +1,12 @@
+![ASAIAS registry cycle map](https://raw.githubusercontent.com/asaias-academy/.github/main/visual-system/assets/diagrams/publication-cycle.png)
+
 # Registry
 
 Publication registry entries, manifests and status transitions.
+
+## Visual Surface
+
+The registry layer follows the same ASAIAS visual discipline as the public profile, publication repositories and archive layer. Registry records are treated as operating evidence, not as decorative metadata.
 
 ## Active Records
 
